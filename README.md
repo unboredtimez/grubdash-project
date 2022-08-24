@@ -1,5 +1,4 @@
 Routes
-To complete this project, you will create the following routes:
 
 GET /dishes
 This route will respond with a list of all existing dish data.
@@ -319,4 +318,3 @@ DELETE http://localhost:5000/dishes/3c637d011d844ebab1205fef8a7e36ea
 Example response
 Status 204 and no response body.
 
-Note: In addition to needing to pass the tests and requirements in the instructions here, please review the Rubric Requirements for the human-graded part of this project in your Thinkful curriculum page.
